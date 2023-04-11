@@ -1,0 +1,41 @@
+{
+    "elements":[
+                {
+                    "title":"bergen",                 
+                    "description": [
+                        "Bergen is a rainy city in Norway.",
+                        "Don't forget to bring a raincoat.",
+                        "Or an umbrella."
+                    ],
+                    "image":"bergen.jpg"
+                },
+                {
+                    "title":"ferrara",                 
+                    "description": [
+                        "Ferrara is a sunny city in Italy,",
+                        "Do not forget sunglasses."
+                    ],
+                    "image":"ferrara.jpg"
+                },
+                {
+                    "title":"rabka",                 
+                    "description": [
+                        "Rabka is a small village in Poland.",
+                        "You can't do much here",
+                        "But still you can go hiking.",
+                        "Or just eat something."
+                    ],
+                    "image":"rabka.jpg"
+                },
+                {
+                    "title":"jaworzno",                 
+                    "description": [
+                        "Jaworzno is a small city in Poland",
+                        "There are a lot of mines.",
+                        "But unless you are not a miner, you can't go there."
+                    ],
+                    "image":"jaworzno.jpg"
+                }
+               
+    ]
+}
