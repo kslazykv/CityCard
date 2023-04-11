@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CityCard/static/css/main.acbe8c70.css",
+    "main.js": "/CityCard/static/js/main.1dc4e423.js",
+    "static/js/787.446cbaf5.chunk.js": "/CityCard/static/js/787.446cbaf5.chunk.js",
+    "index.html": "/CityCard/index.html",
+    "main.acbe8c70.css.map": "/CityCard/static/css/main.acbe8c70.css.map",
+    "main.1dc4e423.js.map": "/CityCard/static/js/main.1dc4e423.js.map",
+    "787.446cbaf5.chunk.js.map": "/CityCard/static/js/787.446cbaf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acbe8c70.css",
+    "static/js/main.1dc4e423.js"
+  ]
+}
